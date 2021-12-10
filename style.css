@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-size: 28px;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+  background-color: floralwhite;
+}
+
+.header h2 {
+  text-align: center;
+}
+
+.progress-container {
+  width: 100%;
+  background: red;
+}
+
+.progress-bar {
+  height: 8px;
+  background: blue;
+  width: 0%;
+}
+
+.content {
+  padding: 250px 0;
+  text-align: center;
+}
